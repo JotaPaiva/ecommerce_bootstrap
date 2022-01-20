@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&family=Vujahday+Script&display=swap');
+
+body{
+    background-color: rgb(73, 73, 73);
+}
+
+.navbar-brand{
+    font-family: 'Vujahday Script', cursive;
+}
+
+#btn-login{
+    margin-right: 1%;
+}
+
+#under-navbar{
+    padding: 0px;
+}
+
+#titulo-pag{
+    padding-top: 4px;
+}
+
+.item{
+    margin-top: 2%;
+    margin-right: 2%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    transition-duration: 0.4s; 
+}
+
+a:hover{
+    color: rgb(0, 131, 0);       
+}
+
+.item-price{
+    font-size: 26px;
+    color: rgb(0, 131, 0);
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 0;
+}
+
+.item-name{
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.item-hr{
+    margin-bottom: 0;
+    margin-right: 6px;
+    margin-left: 6px;
+}
