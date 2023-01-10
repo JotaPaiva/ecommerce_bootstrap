@@ -3,6 +3,6 @@
 
 Hello, world!
 
-I created this simple project to simulate a football shirts store. The navigation between pages was done using the HTML tag <href>. 
+I created this simple project to simulate a football shirts store. The navigation between pages was done using HTML only. 
 
 I hope you guys like! :)
