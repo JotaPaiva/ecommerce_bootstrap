@@ -1,8 +1,8 @@
 # WearItNow!
-## Project created by me to practice HTML, CSS and Bootstrap.
+## Project created to practice HTML, CSS and Bootstrap.
 
 Hello, world!
 
-I created this simple project to simulate a football shirt store.
+I created this simple project to simulate a football shirts store. The navigation between pages was done using the HTML tag <href>. 
 
-The navigation between pages was done using the HTML tag <href>. I hope you guys like!
+I hope you guys like! :)
